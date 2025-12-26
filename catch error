@@ -1,0 +1,7 @@
+print("Start:")
+try:
+    x=int(input())
+    y=int(input())
+    print(x/y)
+except  exception as e:
+      print(e)
