@@ -1,0 +1,18 @@
+def minion_game(string):
+  K=0
+  S=0
+  v="AEIOU"
+     for i in range(len(string)):
+         if string[i] in v:
+         k+len(string)-i
+else:
+    s+=len(string)-i
+    if k>s:
+       print(" kevin",K)
+    elif s>k:
+         print("stuart",S)
+    else:
+        print("Draw")
+
+           
+     
